@@ -6,6 +6,8 @@ defmodule Exq.Enqueuer do
 ##===========================================================
 ## gen server callbacks
 ##===========================================================
+  
+
 
   def init(opts) do 
     host = Keyword.get(opts, :host, '127.0.0.1') 
@@ -24,7 +26,7 @@ defmodule Exq.Enqueuer do
   end
 
   def handle_call({:enqueue, queue, worker, args}, _from, my_state) do 
-    jid = Exq.RedisQueue.enqueue(my_state.redis, my_state.namespace, queue, worker, args) 
+    jid = Exq.RedisQueue.enqueue(state(my_state, :redis), state(my_state, :namespace), queue, worker, args) 
     {:reply, {:ok, jid}, my_state}
   end
   
