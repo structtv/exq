@@ -1,19 +1,14 @@
 # Exq
 
-[![Build Status](https://travis-ci.org/akira/exq.png)](https://travis-ci.org/akira/exq)
-
 Exq is a job processing library compatible with Resque / Sidekiq for the [Elixir](http://elixir-lang.org) language.
+
+Made to work with a Phoenix app.
 
 ## Example Usage:
 
-Start process with:
+Start worker process with:
 
-```elixir
-{:ok, pid} = Exq.start
-
-# Or with config (see source for all options)
-{:ok, pid} = Exq.start([host: '127.0.0.1', port: 6379, namespace: 'x'])
-```
+`mix exq.run Appname`
 
 To enqueue jobs:
 
@@ -37,3 +32,4 @@ end
 ## Contributors:
 
 Benjamin Tan Wei Hao (benjamintanweihao)
+Justin McNally  (j-mcnally)
