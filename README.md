@@ -12,6 +12,12 @@ Start worker process with:
 
 To enqueue jobs:
 
+In you client application add the following worker
+
+```
+children = [worker(ExqClient, [[host: Phoenix.Config.get!([:exq, :host]), port: Phoenix.Config.get!([:exq, :port]), namespace: Phoenix.Config.get!([:exq, :namespace])]])]
+```
+
 ```elixir
 {:ok, ack} = Exq.enqueue(pid, "default", "MyWorker", ["arg1", "arg2"])
 
