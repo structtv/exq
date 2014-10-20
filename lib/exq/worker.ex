@@ -1,10 +1,10 @@
 defmodule Exq.Worker do 
   use GenServer
   require Record
-  Record.defrecord :state, State, [:job]
+  Record.defrecord :state, State, [:job, :queue]
 
-  def start(job) do
-    :gen_server.start(__MODULE__, {job}, [])
+  def start(job, queue) do
+    :gen_server.start(__MODULE__, {job, queue}, [])
   end
 
   def work(pid) do 
@@ -15,11 +15,12 @@ defmodule Exq.Worker do
 ## gen server callbacks
 ##===========================================================
 
-  def init({job}) do
-    {:ok, state(job: job)}
+  def init({job, queue}) do
+    {:ok, state(job: job, queue: queue)}
   end
 
   def handle_cast(:work, my_state) do
+    IO.puts state(my_state, :job)
     job_dict = JSEX.decode!(state(my_state, :job))
     target = Dict.get(job_dict, "class")
     [mod | func_or_empty] = Regex.split(~r/\//, target)
@@ -36,7 +37,9 @@ defmodule Exq.Worker do
     {:ok, my_state}
   end
 
-  def terminate(_reason, _state) do 
+  def terminate(_reason, my_state) do
+    # Decrement queue worker
+    Exq.RedisQueue.finished(state(my_state, :queue))
     :ok
   end
 
@@ -45,10 +48,10 @@ defmodule Exq.Worker do
 ##===========================================================
  
   def dispatch_work(worker_module, args) do
-    IO.puts "Running worker:: #{worker_module}, #{args}"
     dispatch_work(worker_module, :perform, args)
   end
   def dispatch_work(worker_module, method, args) do
+    IO.puts "Running worker:: #{worker_module}, #{args}"
     :erlang.apply(String.to_atom("Elixir.#{worker_module}"), method, args)
   end
 end

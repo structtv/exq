@@ -11,8 +11,9 @@ defmodule Mix.Tasks.Exq.Run do
     host = Phoenix.Config.get!([:exq, :host])
     port = Phoenix.Config.get!([:exq, :port])
     namespace = Phoenix.Config.get!([:exq, :namespace])
+    queues = Phoenix.Config.get!([:exq, :queues])
 
-    {:ok, pid} = Exq.start([host: host, port: port, namespace: namespace])    
+    {:ok, pid} = Exq.start([host: host, port: port, namespace: namespace, queues: queues])    
     IO.puts "Started Exq with redis options: Host: #{host}, Port: #{port}, Namespace: #{namespace}"
     :timer.sleep(:infinity)
   end

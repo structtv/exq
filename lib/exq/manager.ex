@@ -8,11 +8,13 @@ defmodule Exq.Manager do
 ##===========================================================
 
   def init(opts) do 
+    :ets.new(:workers, [:named_table, :set, :public, {:read_concurrency, true}])
+    IO.puts "ETS TABLE CREATED"
     host = Keyword.get(opts, :host, '127.0.0.1') 
     port = Keyword.get(opts, :port, 6379) 
     database = Keyword.get(opts, :database, 0)
     password = Keyword.get(opts, :password, '') 
-    queues = Keyword.get(opts, :queues, ["default"]) 
+    queues = Keyword.get(opts, :queues, [{"default", 10}]) 
     namespace = Keyword.get(opts, :namespace, "resque")
     poll_timeout = Keyword.get(opts, :poll_timeout, 100)
     reconnect_on_sleep = Keyword.get(opts, :reconnect_on_sleep, 100)
@@ -66,8 +68,8 @@ defmodule Exq.Manager do
 
   def dequeue_and_dispatch(my_state) do
     case dequeue(state(my_state, :redis), state(my_state, :namespace), state(my_state, :queues)) do 
-      :none -> my_state
-      job -> dispatch_job(my_state, job)
+      {:none, queue} -> my_state
+      {job, queue} -> dispatch_job(my_state, job, queue)
     end
   end
 
@@ -75,8 +77,9 @@ defmodule Exq.Manager do
     Exq.RedisQueue.dequeue(redis, namespace, queues) 
   end 
 
-  def dispatch_job(my_state, job) do 
-    {:ok, worker} = Exq.Worker.start(job)
+  def dispatch_job(my_state, job, queue) do 
+    Exq.RedisQueue.working(queue)
+    {:ok, worker} = Exq.Worker.start(job, queue)
     Exq.Worker.work(worker)
     my_state
   end
