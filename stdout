@@ -1,0 +1,1200 @@
+[37896] 20 Oct 23:51:29.419 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 37896
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[37896] 20 Oct 23:51:29.421 # Server started, Redis version 2.8.7
+[37896] 20 Oct 23:51:29.421 * The server is now ready to accept connections on port 6555
+[37896] 20 Oct 23:51:29.555 # User requested shutdown...
+[37896] 20 Oct 23:51:29.556 * Removing the pid file.
+[37896] 20 Oct 23:51:29.556 # Redis is now ready to exit, bye bye...
+[37903] 20 Oct 23:51:29.578 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 37903
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[37903] 20 Oct 23:51:29.580 # Server started, Redis version 2.8.7
+[37903] 20 Oct 23:51:29.580 * The server is now ready to accept connections on port 6555
+[37903] 20 Oct 23:51:29.698 # User requested shutdown...
+[37903] 20 Oct 23:51:29.698 * Removing the pid file.
+[37903] 20 Oct 23:51:29.698 # Redis is now ready to exit, bye bye...
+[37908] 20 Oct 23:51:29.716 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 37908
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[37908] 20 Oct 23:51:29.718 # Server started, Redis version 2.8.7
+[37908] 20 Oct 23:51:29.718 * The server is now ready to accept connections on port 6555
+[37908] 20 Oct 23:51:29.833 # User requested shutdown...
+[37908] 20 Oct 23:51:29.834 * Removing the pid file.
+[37908] 20 Oct 23:51:29.834 # Redis is now ready to exit, bye bye...
+[37913] 20 Oct 23:51:29.852 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 37913
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[37913] 20 Oct 23:51:29.854 # Server started, Redis version 2.8.7
+[37913] 20 Oct 23:51:29.854 * The server is now ready to accept connections on port 6555
+[37913] 20 Oct 23:51:29.979 # User requested shutdown...
+[37913] 20 Oct 23:51:29.979 * Removing the pid file.
+[37913] 20 Oct 23:51:29.979 # Redis is now ready to exit, bye bye...
+[37918] 20 Oct 23:51:30.002 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 37918
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[37918] 20 Oct 23:51:30.004 # Server started, Redis version 2.8.7
+[37918] 20 Oct 23:51:30.004 * The server is now ready to accept connections on port 6555
+[37918] 20 Oct 23:51:30.126 # User requested shutdown...
+[37918] 20 Oct 23:51:30.126 * Removing the pid file.
+[37918] 20 Oct 23:51:30.126 # Redis is now ready to exit, bye bye...
+[38265] 20 Oct 23:55:08.125 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38265
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38265] 20 Oct 23:55:08.127 # Server started, Redis version 2.8.7
+[38265] 20 Oct 23:55:08.127 * The server is now ready to accept connections on port 6555
+[38265] 20 Oct 23:55:08.278 # User requested shutdown...
+[38265] 20 Oct 23:55:08.278 * Removing the pid file.
+[38265] 20 Oct 23:55:08.278 # Redis is now ready to exit, bye bye...
+[38272] 20 Oct 23:55:08.299 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38272
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38272] 20 Oct 23:55:08.301 # Server started, Redis version 2.8.7
+[38272] 20 Oct 23:55:08.301 * The server is now ready to accept connections on port 6555
+[38272] 20 Oct 23:55:08.417 # User requested shutdown...
+[38272] 20 Oct 23:55:08.417 * Removing the pid file.
+[38272] 20 Oct 23:55:08.418 # Redis is now ready to exit, bye bye...
+[38277] 20 Oct 23:55:08.439 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38277
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38277] 20 Oct 23:55:08.441 # Server started, Redis version 2.8.7
+[38277] 20 Oct 23:55:08.441 * The server is now ready to accept connections on port 6555
+[38277] 20 Oct 23:55:08.619 # User requested shutdown...
+[38277] 20 Oct 23:55:08.619 * Removing the pid file.
+[38277] 20 Oct 23:55:08.619 # Redis is now ready to exit, bye bye...
+[38282] 20 Oct 23:55:08.638 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38282
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38282] 20 Oct 23:55:08.640 # Server started, Redis version 2.8.7
+[38282] 20 Oct 23:55:08.640 * The server is now ready to accept connections on port 6555
+[38282] 20 Oct 23:55:08.765 # User requested shutdown...
+[38282] 20 Oct 23:55:08.765 * Removing the pid file.
+[38282] 20 Oct 23:55:08.765 # Redis is now ready to exit, bye bye...
+[38287] 20 Oct 23:55:08.786 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38287
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38287] 20 Oct 23:55:08.788 # Server started, Redis version 2.8.7
+[38287] 20 Oct 23:55:08.789 * The server is now ready to accept connections on port 6555
+[38287] 20 Oct 23:55:08.902 # User requested shutdown...
+[38287] 20 Oct 23:55:08.902 * Removing the pid file.
+[38287] 20 Oct 23:55:08.903 # Redis is now ready to exit, bye bye...
+[38433] 20 Oct 23:57:35.423 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38433
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38433] 20 Oct 23:57:35.426 # Server started, Redis version 2.8.7
+[38433] 20 Oct 23:57:35.426 * The server is now ready to accept connections on port 6555
+[38433] 20 Oct 23:57:35.563 # User requested shutdown...
+[38433] 20 Oct 23:57:35.563 * Removing the pid file.
+[38433] 20 Oct 23:57:35.564 # Redis is now ready to exit, bye bye...
+[38440] 20 Oct 23:57:35.585 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38440
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38440] 20 Oct 23:57:35.588 # Server started, Redis version 2.8.7
+[38440] 20 Oct 23:57:35.588 * The server is now ready to accept connections on port 6555
+[38440] 20 Oct 23:57:35.713 # User requested shutdown...
+[38440] 20 Oct 23:57:35.713 * Removing the pid file.
+[38440] 20 Oct 23:57:35.713 # Redis is now ready to exit, bye bye...
+[38445] 20 Oct 23:57:35.734 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38445
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38445] 20 Oct 23:57:35.736 # Server started, Redis version 2.8.7
+[38445] 20 Oct 23:57:35.737 * The server is now ready to accept connections on port 6555
+[38445] 20 Oct 23:57:35.916 # User requested shutdown...
+[38445] 20 Oct 23:57:35.917 * Removing the pid file.
+[38445] 20 Oct 23:57:35.917 # Redis is now ready to exit, bye bye...
+[38450] 20 Oct 23:57:35.935 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38450
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38450] 20 Oct 23:57:35.937 # Server started, Redis version 2.8.7
+[38450] 20 Oct 23:57:35.937 * The server is now ready to accept connections on port 6555
+[38450] 20 Oct 23:57:36.115 # User requested shutdown...
+[38450] 20 Oct 23:57:36.115 * Removing the pid file.
+[38450] 20 Oct 23:57:36.116 # Redis is now ready to exit, bye bye...
+[38455] 20 Oct 23:57:36.136 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38455
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38455] 20 Oct 23:57:36.138 # Server started, Redis version 2.8.7
+[38455] 20 Oct 23:57:36.138 * The server is now ready to accept connections on port 6555
+[38455] 20 Oct 23:57:36.260 # User requested shutdown...
+[38455] 20 Oct 23:57:36.260 * Removing the pid file.
+[38455] 20 Oct 23:57:36.260 # Redis is now ready to exit, bye bye...
+[38751] 20 Oct 23:58:45.839 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38751
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38751] 20 Oct 23:58:45.843 # Server started, Redis version 2.8.7
+[38751] 20 Oct 23:58:45.843 * The server is now ready to accept connections on port 6555
+[38751] 20 Oct 23:58:45.996 # User requested shutdown...
+[38751] 20 Oct 23:58:45.996 * Removing the pid file.
+[38751] 20 Oct 23:58:45.996 # Redis is now ready to exit, bye bye...
+[38758] 20 Oct 23:58:46.016 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38758
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38758] 20 Oct 23:58:46.018 # Server started, Redis version 2.8.7
+[38758] 20 Oct 23:58:46.018 * The server is now ready to accept connections on port 6555
+[38758] 20 Oct 23:58:46.134 # User requested shutdown...
+[38758] 20 Oct 23:58:46.135 * Removing the pid file.
+[38758] 20 Oct 23:58:46.135 # Redis is now ready to exit, bye bye...
+[38763] 20 Oct 23:58:46.155 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38763
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38763] 20 Oct 23:58:46.157 # Server started, Redis version 2.8.7
+[38763] 20 Oct 23:58:46.157 * The server is now ready to accept connections on port 6555
+[38763] 20 Oct 23:58:46.335 # User requested shutdown...
+[38763] 20 Oct 23:58:46.335 * Removing the pid file.
+[38763] 20 Oct 23:58:46.335 # Redis is now ready to exit, bye bye...
+[38768] 20 Oct 23:58:46.355 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38768
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38768] 20 Oct 23:58:46.357 # Server started, Redis version 2.8.7
+[38768] 20 Oct 23:58:46.357 * The server is now ready to accept connections on port 6555
+[38768] 20 Oct 23:58:46.531 # User requested shutdown...
+[38768] 20 Oct 23:58:46.531 * Removing the pid file.
+[38768] 20 Oct 23:58:46.532 # Redis is now ready to exit, bye bye...
+[38773] 20 Oct 23:58:46.551 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38773
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38773] 20 Oct 23:58:46.553 # Server started, Redis version 2.8.7
+[38773] 20 Oct 23:58:46.553 * The server is now ready to accept connections on port 6555
+[38773] 20 Oct 23:58:46.675 # User requested shutdown...
+[38773] 20 Oct 23:58:46.675 * Removing the pid file.
+[38773] 20 Oct 23:58:46.676 # Redis is now ready to exit, bye bye...
+[38918] 21 Oct 00:00:07.137 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38918
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38918] 21 Oct 00:00:07.139 # Server started, Redis version 2.8.7
+[38918] 21 Oct 00:00:07.139 * The server is now ready to accept connections on port 6555
+[38918] 21 Oct 00:00:07.274 # User requested shutdown...
+[38918] 21 Oct 00:00:07.274 * Removing the pid file.
+[38918] 21 Oct 00:00:07.274 # Redis is now ready to exit, bye bye...
+[38925] 21 Oct 00:00:07.294 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38925
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38925] 21 Oct 00:00:07.296 # Server started, Redis version 2.8.7
+[38925] 21 Oct 00:00:07.296 * The server is now ready to accept connections on port 6555
+[38925] 21 Oct 00:00:07.420 # User requested shutdown...
+[38925] 21 Oct 00:00:07.420 * Removing the pid file.
+[38925] 21 Oct 00:00:07.421 # Redis is now ready to exit, bye bye...
+[38930] 21 Oct 00:00:07.443 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38930
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38930] 21 Oct 00:00:07.444 # Server started, Redis version 2.8.7
+[38930] 21 Oct 00:00:07.444 * The server is now ready to accept connections on port 6555
+[38930] 21 Oct 00:00:07.572 # User requested shutdown...
+[38930] 21 Oct 00:00:07.572 * Removing the pid file.
+[38930] 21 Oct 00:00:07.573 # Redis is now ready to exit, bye bye...
+[38935] 21 Oct 00:00:07.593 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38935
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38935] 21 Oct 00:00:07.595 # Server started, Redis version 2.8.7
+[38935] 21 Oct 00:00:07.595 * The server is now ready to accept connections on port 6555
+[38935] 21 Oct 00:00:07.773 # User requested shutdown...
+[38935] 21 Oct 00:00:07.773 * Removing the pid file.
+[38935] 21 Oct 00:00:07.773 # Redis is now ready to exit, bye bye...
+[38940] 21 Oct 00:00:07.794 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 38940
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[38940] 21 Oct 00:00:07.797 # Server started, Redis version 2.8.7
+[38940] 21 Oct 00:00:07.797 * The server is now ready to accept connections on port 6555
+[38940] 21 Oct 00:00:07.976 # User requested shutdown...
+[38940] 21 Oct 00:00:07.976 * Removing the pid file.
+[38940] 21 Oct 00:00:07.976 # Redis is now ready to exit, bye bye...
+[39076] 21 Oct 00:06:15.803 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39076
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39076] 21 Oct 00:06:15.805 # Server started, Redis version 2.8.7
+[39076] 21 Oct 00:06:15.806 * The server is now ready to accept connections on port 6555
+[39076] 21 Oct 00:06:16.009 # User requested shutdown...
+[39076] 21 Oct 00:06:16.009 * Removing the pid file.
+[39076] 21 Oct 00:06:16.009 # Redis is now ready to exit, bye bye...
+[39083] 21 Oct 00:06:16.028 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39083
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39083] 21 Oct 00:06:16.029 # Server started, Redis version 2.8.7
+[39083] 21 Oct 00:06:16.029 * The server is now ready to accept connections on port 6555
+[39083] 21 Oct 00:06:16.154 # User requested shutdown...
+[39083] 21 Oct 00:06:16.154 * Removing the pid file.
+[39083] 21 Oct 00:06:16.155 # Redis is now ready to exit, bye bye...
+[39088] 21 Oct 00:06:16.173 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39088
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39088] 21 Oct 00:06:16.175 # Server started, Redis version 2.8.7
+[39088] 21 Oct 00:06:16.176 * The server is now ready to accept connections on port 6555
+[39088] 21 Oct 00:06:16.353 # User requested shutdown...
+[39088] 21 Oct 00:06:16.353 * Removing the pid file.
+[39088] 21 Oct 00:06:16.353 # Redis is now ready to exit, bye bye...
+[39093] 21 Oct 00:06:16.373 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39093
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39093] 21 Oct 00:06:16.375 # Server started, Redis version 2.8.7
+[39093] 21 Oct 00:06:16.375 * The server is now ready to accept connections on port 6555
+[39093] 21 Oct 00:06:16.493 # User requested shutdown...
+[39093] 21 Oct 00:06:16.493 * Removing the pid file.
+[39093] 21 Oct 00:06:16.493 # Redis is now ready to exit, bye bye...
+[39098] 21 Oct 00:06:16.528 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39098
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39098] 21 Oct 00:06:16.531 # Server started, Redis version 2.8.7
+[39098] 21 Oct 00:06:16.531 * The server is now ready to accept connections on port 6555
+[39098] 21 Oct 00:06:16.651 # User requested shutdown...
+[39098] 21 Oct 00:06:16.651 * Removing the pid file.
+[39098] 21 Oct 00:06:16.651 # Redis is now ready to exit, bye bye...
+[39760] 21 Oct 00:09:49.483 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39760
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39760] 21 Oct 00:09:49.485 # Server started, Redis version 2.8.7
+[39760] 21 Oct 00:09:49.485 * The server is now ready to accept connections on port 6555
+[39760] 21 Oct 00:09:49.626 # User requested shutdown...
+[39760] 21 Oct 00:09:49.626 * Removing the pid file.
+[39760] 21 Oct 00:09:49.626 # Redis is now ready to exit, bye bye...
+[39767] 21 Oct 00:09:49.653 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39767
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39767] 21 Oct 00:09:49.655 # Server started, Redis version 2.8.7
+[39767] 21 Oct 00:09:49.655 * The server is now ready to accept connections on port 6555
+[39767] 21 Oct 00:09:49.793 # User requested shutdown...
+[39767] 21 Oct 00:09:49.793 * Removing the pid file.
+[39767] 21 Oct 00:09:49.794 # Redis is now ready to exit, bye bye...
+[39772] 21 Oct 00:09:49.818 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39772
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39772] 21 Oct 00:09:49.820 # Server started, Redis version 2.8.7
+[39772] 21 Oct 00:09:49.820 * The server is now ready to accept connections on port 6555
+[39772] 21 Oct 00:09:50.000 # User requested shutdown...
+[39772] 21 Oct 00:09:50.000 * Removing the pid file.
+[39772] 21 Oct 00:09:50.001 # Redis is now ready to exit, bye bye...
+[39777] 21 Oct 00:09:50.019 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39777
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39777] 21 Oct 00:09:50.021 # Server started, Redis version 2.8.7
+[39777] 21 Oct 00:09:50.021 * The server is now ready to accept connections on port 6555
+[39777] 21 Oct 00:09:50.207 # User requested shutdown...
+[39777] 21 Oct 00:09:50.207 * Removing the pid file.
+[39777] 21 Oct 00:09:50.207 # Redis is now ready to exit, bye bye...
+[39782] 21 Oct 00:09:50.227 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39782
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39782] 21 Oct 00:09:50.229 # Server started, Redis version 2.8.7
+[39782] 21 Oct 00:09:50.229 * The server is now ready to accept connections on port 6555
+[39782] 21 Oct 00:09:50.351 # User requested shutdown...
+[39782] 21 Oct 00:09:50.351 * Removing the pid file.
+[39782] 21 Oct 00:09:50.351 # Redis is now ready to exit, bye bye...
+[39878] 21 Oct 00:10:57.662 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39878
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39878] 21 Oct 00:10:57.664 # Server started, Redis version 2.8.7
+[39878] 21 Oct 00:10:57.665 * The server is now ready to accept connections on port 6555
+[39878] 21 Oct 00:10:57.818 # User requested shutdown...
+[39878] 21 Oct 00:10:57.818 * Removing the pid file.
+[39878] 21 Oct 00:10:57.818 # Redis is now ready to exit, bye bye...
+[39885] 21 Oct 00:10:57.838 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39885
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39885] 21 Oct 00:10:57.840 # Server started, Redis version 2.8.7
+[39885] 21 Oct 00:10:57.840 * The server is now ready to accept connections on port 6555
+[39885] 21 Oct 00:10:58.020 # User requested shutdown...
+[39885] 21 Oct 00:10:58.020 * Removing the pid file.
+[39885] 21 Oct 00:10:58.020 # Redis is now ready to exit, bye bye...
+[39890] 21 Oct 00:10:58.043 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39890
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39890] 21 Oct 00:10:58.045 # Server started, Redis version 2.8.7
+[39890] 21 Oct 00:10:58.045 * The server is now ready to accept connections on port 6555
+[39890] 21 Oct 00:10:58.218 # User requested shutdown...
+[39890] 21 Oct 00:10:58.218 * Removing the pid file.
+[39890] 21 Oct 00:10:58.218 # Redis is now ready to exit, bye bye...
+[39895] 21 Oct 00:10:58.237 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39895
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39895] 21 Oct 00:10:58.239 # Server started, Redis version 2.8.7
+[39895] 21 Oct 00:10:58.239 * The server is now ready to accept connections on port 6555
+[39895] 21 Oct 00:10:58.356 # User requested shutdown...
+[39895] 21 Oct 00:10:58.357 * Removing the pid file.
+[39895] 21 Oct 00:10:58.357 # Redis is now ready to exit, bye bye...
+[39900] 21 Oct 00:10:58.375 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 39900
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[39900] 21 Oct 00:10:58.377 # Server started, Redis version 2.8.7
+[39900] 21 Oct 00:10:58.377 * The server is now ready to accept connections on port 6555
+[39900] 21 Oct 00:10:58.495 # User requested shutdown...
+[39900] 21 Oct 00:10:58.495 * Removing the pid file.
+[39900] 21 Oct 00:10:58.496 # Redis is now ready to exit, bye bye...
+[40026] 21 Oct 00:14:10.046 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40026
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40026] 21 Oct 00:14:10.048 # Server started, Redis version 2.8.7
+[40026] 21 Oct 00:14:10.048 * The server is now ready to accept connections on port 6555
+[40026] 21 Oct 00:14:10.199 # User requested shutdown...
+[40026] 21 Oct 00:14:10.199 * Removing the pid file.
+[40026] 21 Oct 00:14:10.199 # Redis is now ready to exit, bye bye...
+[40033] 21 Oct 00:14:10.222 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40033
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40033] 21 Oct 00:14:10.224 # Server started, Redis version 2.8.7
+[40033] 21 Oct 00:14:10.225 * The server is now ready to accept connections on port 6555
+[40033] 21 Oct 00:14:10.406 # User requested shutdown...
+[40033] 21 Oct 00:14:10.406 * Removing the pid file.
+[40033] 21 Oct 00:14:10.407 # Redis is now ready to exit, bye bye...
+[40038] 21 Oct 00:14:10.430 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40038
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40038] 21 Oct 00:14:10.432 # Server started, Redis version 2.8.7
+[40038] 21 Oct 00:14:10.432 * The server is now ready to accept connections on port 6555
+[40038] 21 Oct 00:14:10.558 # User requested shutdown...
+[40038] 21 Oct 00:14:10.558 * Removing the pid file.
+[40038] 21 Oct 00:14:10.558 # Redis is now ready to exit, bye bye...
+[40043] 21 Oct 00:14:10.578 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40043
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40043] 21 Oct 00:14:10.580 # Server started, Redis version 2.8.7
+[40043] 21 Oct 00:14:10.580 * The server is now ready to accept connections on port 6555
+[40043] 21 Oct 00:14:10.753 # User requested shutdown...
+[40043] 21 Oct 00:14:10.754 * Removing the pid file.
+[40043] 21 Oct 00:14:10.754 # Redis is now ready to exit, bye bye...
+[40048] 21 Oct 00:14:10.777 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40048
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40048] 21 Oct 00:14:10.781 # Server started, Redis version 2.8.7
+[40048] 21 Oct 00:14:10.781 * The server is now ready to accept connections on port 6555
+[40048] 21 Oct 00:14:10.897 # User requested shutdown...
+[40048] 21 Oct 00:14:10.897 * Removing the pid file.
+[40048] 21 Oct 00:14:10.897 # Redis is now ready to exit, bye bye...
+[40141] 21 Oct 00:14:55.317 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40141
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40141] 21 Oct 00:14:55.319 # Server started, Redis version 2.8.7
+[40141] 21 Oct 00:14:55.319 * The server is now ready to accept connections on port 6555
+[40141] 21 Oct 00:14:55.449 # User requested shutdown...
+[40141] 21 Oct 00:14:55.449 * Removing the pid file.
+[40141] 21 Oct 00:14:55.450 # Redis is now ready to exit, bye bye...
+[40148] 21 Oct 00:14:55.468 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40148
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40148] 21 Oct 00:14:55.469 # Server started, Redis version 2.8.7
+[40148] 21 Oct 00:14:55.470 * The server is now ready to accept connections on port 6555
+[40148] 21 Oct 00:14:55.600 # User requested shutdown...
+[40148] 21 Oct 00:14:55.600 * Removing the pid file.
+[40148] 21 Oct 00:14:55.600 # Redis is now ready to exit, bye bye...
+[40153] 21 Oct 00:14:55.619 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40153
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40153] 21 Oct 00:14:55.621 # Server started, Redis version 2.8.7
+[40153] 21 Oct 00:14:55.621 * The server is now ready to accept connections on port 6555
+[40153] 21 Oct 00:14:55.804 # User requested shutdown...
+[40153] 21 Oct 00:14:55.804 * Removing the pid file.
+[40153] 21 Oct 00:14:55.804 # Redis is now ready to exit, bye bye...
+[40158] 21 Oct 00:14:55.822 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40158
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40158] 21 Oct 00:14:55.824 # Server started, Redis version 2.8.7
+[40158] 21 Oct 00:14:55.824 * The server is now ready to accept connections on port 6555
+[40158] 21 Oct 00:14:56.007 # User requested shutdown...
+[40158] 21 Oct 00:14:56.007 * Removing the pid file.
+[40158] 21 Oct 00:14:56.007 # Redis is now ready to exit, bye bye...
+[40163] 21 Oct 00:14:56.031 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.7 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6555
+ |    `-._   `._    /     _.-'    |     PID: 40163
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[40163] 21 Oct 00:14:56.032 # Server started, Redis version 2.8.7
+[40163] 21 Oct 00:14:56.033 * The server is now ready to accept connections on port 6555
+[40163] 21 Oct 00:14:56.159 # User requested shutdown...
+[40163] 21 Oct 00:14:56.160 * Removing the pid file.
+[40163] 21 Oct 00:14:56.160 # Redis is now ready to exit, bye bye...

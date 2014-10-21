@@ -29,7 +29,7 @@ defmodule Exq.Manager do
   end
 
   def handle_call({:enqueue, queue, worker, args}, _from, my_state) do 
-    jid = Exq.RedisQueue.enqueue(my_state.redis, my_state.namespace, queue, worker, args) 
+    jid = Exq.RedisQueue.enqueue(state(my_state, :redis), state(my_state, :namespace), queue, worker, args) 
     {:reply, {:ok, jid}, my_state}
   end
   

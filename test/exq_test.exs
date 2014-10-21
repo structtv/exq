@@ -13,11 +13,10 @@ defmodule ExqTest do
 
   setup do
     TestRedis.start
-    :ok
-  end
-
-  teardown do
-    TestRedis.stop
+    IO.puts "Start"
+    on_exit fn ->
+      TestRedis.stop
+    end
     :ok
   end
 
@@ -40,7 +39,7 @@ defmodule ExqTest do
 
   test "run jobs on multiple queues" do
     Process.register(self, :exqtest)
-    {:ok, exq} = Exq.start_link([port: 6555, queues: ["q1", "q2"], poll_timeout: 1])
+    {:ok, exq} = Exq.start_link([port: 6555, queues: [{"q1", 10}, {"q2", 10}], poll_timeout: 1])
     {:ok, _} = Exq.enqueue(exq, "q1", "ExqTest", [1])
     {:ok, _} = Exq.enqueue(exq, "q2", "ExqTest", [2])
     :timer.sleep(50)

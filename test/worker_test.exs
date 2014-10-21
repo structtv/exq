@@ -9,6 +9,11 @@ defmodule WorkerTest do
   end
   def custom_perform do
   end
+
+  setup_all do
+    :ets.new(:workers, [:named_table, :set, :public, {:read_concurrency, true}])
+    :ok
+  end
   
   def assert_terminate(worker, normal_terminate) do
     :erlang.monitor(:process, worker)
@@ -23,37 +28,37 @@ defmodule WorkerTest do
  
   test "execute valid job with perform" do
     {:ok, worker} = Exq.Worker.start(
-      "{ \"queue\": \"default\", \"class\": \"WorkerTest\", \"args\": [] }")
+      "{ \"queue\": \"default\", \"class\": \"WorkerTest\", \"args\": [] }", "default")
     assert_terminate(worker, true)
   end
   
   test "execute valid job with perform args" do
     {:ok, worker} = Exq.Worker.start(
-      "{ \"queue\": \"default\", \"class\": \"WorkerTest\", \"args\": [1, 2, 3] }")
+      "{ \"queue\": \"default\", \"class\": \"WorkerTest\", \"args\": [1, 2, 3] }", "default")
     assert_terminate(worker, true)
   end
 
   test "execute valid job with custom function" do
     {:ok, worker} = Exq.Worker.start(
-      "{ \"queue\": \"default\", \"class\": \"WorkerTest/custom_perform\", \"args\": [] }")
+      "{ \"queue\": \"default\", \"class\": \"WorkerTest/custom_perform\", \"args\": [] }", "default")
     assert_terminate(worker, true)
   end
   
   test "execute job with invalid JSON" do
     {:ok, worker} = Exq.Worker.start(
-      "{ invalid: json: this: is}")
+      "{ invalid: json: this: is}", "default")
     assert_terminate(worker, false)
   end
   
   test "execute invalid module perform" do
     {:ok, worker} = Exq.Worker.start(
-      "{ \"queue\": \"default\", \"class\": \"NonExistant\", \"args\": [] }")
+      "{ \"queue\": \"default\", \"class\": \"NonExistant\", \"args\": [] }", "default")
     assert_terminate(worker, false)
   end
   
   test "execute invalid module function" do
     {:ok, worker} = Exq.Worker.start(
-      "{ \"queue\": \"default\", \"class\": \"WorkerTest/nonexist\", \"args\": [] }")
+      "{ \"queue\": \"default\", \"class\": \"WorkerTest/nonexist\", \"args\": [] }", "default")
     assert_terminate(worker, false)
   end
 end
