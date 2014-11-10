@@ -3,6 +3,12 @@ Code.require_file "test_helper.exs", __DIR__
 defmodule WorkerTest do
   use ExUnit.Case
 
+  setup do
+    :ets.new(:workers, [:named_table, :set, :public, {:read_concurrency, true}])
+    :ok
+  end
+
+
   defmodule NoArgWorker do
     def perform do
     end

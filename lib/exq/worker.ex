@@ -40,7 +40,10 @@ defmodule Exq.Worker do
     {:ok, state}
   end
 
-  def terminate(:normal, %State{manager: nil}), do: :ok
+  def terminate(:normal, state = %State{manager: nil}) do 
+    Exq.RedisQueue.finished(Exq.Job.from_json(state.job).queue)
+    :ok
+  end
 
   def terminate(:normal, state) do
     case Process.alive?(state.manager) do
@@ -52,10 +55,14 @@ defmodule Exq.Worker do
       _ ->
         Logger.error("Worker terminated, but manager was not alive.")
     end
+    Exq.RedisQueue.finished(Exq.Job.from_json(state.job).queue)
     :ok
   end
 
-  def terminate(error, %State{manager: nil}), do: :ok
+  def terminate(error, state = %State{manager: nil}) do
+    Exq.RedisQueue.finished(Exq.Job.from_json(state.job).queue)
+    :ok
+  end
 
   def terminate(error, state) do
     case Process.alive?(state.manager) do
@@ -66,6 +73,7 @@ defmodule Exq.Worker do
       _ ->
         Logger.error("Worker terminated, but manager was not alive.")
     end
+    Exq.RedisQueue.finished(Exq.Job.from_json(state.job).queue)
     :ok
   end
 

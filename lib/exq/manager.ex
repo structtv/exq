@@ -20,6 +20,9 @@ defmodule Exq.Manager do
 ##===========================================================
 
   def init([opts]) do
+    if :ets.info(:workers) == :undefined do
+      :ets.new(:workers, [:named_table, :set, :public, {:read_concurrency, true}])
+    end
     {:ok, redis} = Exq.Redis.connection(opts)
     name = Keyword.get(opts, :name, @default_name)
     queues = Keyword.get(opts, :queues, Exq.Config.get(:queues, ["default"]))
@@ -116,6 +119,8 @@ defmodule Exq.Manager do
   end
 
   def dispatch_job(state, job) do
+    {:ok, ojob} = Poison.decode(job, %{})
+    Exq.RedisQueue.working(ojob["queue"])
     {:ok, worker} = Exq.Worker.start(job, state.pid)
     Exq.Stats.add_process(state.redis, state.namespace, %Exq.Process{pid: worker, host: state.host, job: job, started_at: DateFormat.format!(Date.local, "{ISO}")})
     Exq.Worker.work(worker)

@@ -8,7 +8,12 @@ defmodule Exq.RedisQueueTest do
     on_exit fn ->
       TestRedis.teardown
     end
-  end 
+  end
+
+  setup do
+    :ets.new(:workers, [:named_table, :set, :public, {:read_concurrency, true}])
+    :ok
+  end
 
  
   test "enqueue/dequeue single queue" do
@@ -33,6 +38,30 @@ defmodule Exq.RedisQueueTest do
     job_str = Exq.RedisQueue.dequeue(:testredis, "test", "default")
     job = Poison.decode!(job_str, as: Exq.Job)
     assert job.jid == jid
+  end
+
+  test "should not dequeue a task when the max number of workers for a queue are running" do
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    :ets.insert(:workers, {"default", 5})
+    {queue, _} = Exq.RedisQueue.dequeue(:testredis, "test123", [{"default", 5}])
+    assert queue == :none
+  end
+
+  test "should dequeue a task when the max number of workers for a queue are not running" do
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    Exq.RedisQueue.enqueue(:testredis, "test123", "default", "MyWorker", [])
+    :ets.insert(:workers, {"default", 0})
+    job = Exq.RedisQueue.dequeue(:testredis, "test123", [{"default", 5}])
+    assert job != :none
   end
 
 end
